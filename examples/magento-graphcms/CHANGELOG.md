@@ -1,5 +1,19 @@
 # Change Log
 
+## 3.5.3
+
+### Patch Changes
+
+- [#1368](https://github.com/graphcommerce-org/graphcommerce/pull/1368) [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a) Thanks [@paales](https://github.com/paales)! - Minor layout fixes for the layout
+
+- Updated dependencies [[`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a), [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a), [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a), [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a), [`6213f0b0f`](https://github.com/graphcommerce-org/graphcommerce/commit/6213f0b0f5f53d622b993d9f7ea96cbbeb5bd670), [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a), [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a)]:
+  - @graphcommerce/graphql@3.0.6
+  - @graphcommerce/next-ui@4.5.0
+  - @graphcommerce/magento-customer@4.2.0
+  - @graphcommerce/magento-customer-account@3.1.0
+  - @graphcommerce/mollie-magento-payment@3.1.0
+  - @graphcommerce/magento-cart-payment-method@3.0.6
+
 ## 3.5.2
 
 ### Patch Changes

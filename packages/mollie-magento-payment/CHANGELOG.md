@@ -1,5 +1,18 @@
 # Change Log
 
+## 3.1.0
+
+### Minor Changes
+
+- [#1368](https://github.com/graphcommerce-org/graphcommerce/pull/1368) [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a) Thanks [@paales](https://github.com/paales)! - Fix issue where the cart couldn't be properly restored when a payment was cancelled
+
+### Patch Changes
+
+- Updated dependencies [[`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a), [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a), [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a), [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a), [`892018809`](https://github.com/graphcommerce-org/graphcommerce/commit/8920188093d0422ec50580e408dc28ac5f93e46a)]:
+  - @graphcommerce/graphql@3.0.6
+  - @graphcommerce/next-ui@4.5.0
+  - @graphcommerce/magento-cart-payment-method@3.0.6
+
 ## 3.0.6
 
 ### Patch Changes
